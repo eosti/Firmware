@@ -1,0 +1,3 @@
+[submodule "Src/drivers/Cypress_S25FL512S_QSPI_Driver"]
+	path = Src/drivers/Cypress_S25FL512S_QSPI_Driver
+	url = https://github.com/eosti/stm32-cypress-qspi
